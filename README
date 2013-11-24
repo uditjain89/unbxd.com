@@ -1,0 +1,18 @@
+
+1. From linux xterm use command 'make' , it will create an executable unbxd
+
+2. Use command './unbxd' to launch the program
+
+*********************************************************
+
+1. The program takes 2 files as input , a products description file , and a records description file. 
+
+2. I have included two sample files , 'products.cpp' and 'records.cpp'. You can provide your own files, the program asks for name of
+   the input files.
+
+3. I have not written Destructors for the Database, I was not able to spare much time.
+
+ 
+I have coded the solution for the given case problem. 
+
+Warm regards :)
