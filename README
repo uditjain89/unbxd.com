@@ -1,4 +1,3 @@
-
 1. From linux xterm use command 'make' , it will create an executable unbxd
 
 2. Use command './unbxd' to launch the program
@@ -10,7 +9,11 @@
 2. I have included two sample files , 'products.cpp' and 'records.cpp'. You can provide your own files, the program asks for name of
    the input files.
 
-3. I have not written Destructors for the Database, I was not able to spare much time.
+3. I have assumed query to be a 1 word string , while reading records file. 
+   However the database can handle even multiple word queries.
+   Product ID , is taken as an integer, all other attributes are assumed as strings.
+
+4. I have not written Destructors for the Database, I was not able to spare much time.
 
  
 I have coded the solution for the given case problem. 
